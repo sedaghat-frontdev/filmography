@@ -5,7 +5,7 @@
 
 # 📽️ Filmography (Project)
 
-A Shoping Project inspired by webflow using HTML and CSS3.
+A Filmography project using HTML and CSS3.
 
 <img width="1918" height="967" alt="Image" src="https://github.com/user-attachments/assets/fe6adfa1-dedf-4653-91b0-4e2527c1cef3" />
 <br/>
@@ -16,7 +16,7 @@ A Shoping Project inspired by webflow using HTML and CSS3.
 <br/>
 <br/>
 <p align="center">
-  <a href="https://sedaghat-frontdev.github.io/Proj-Jewelry/index.html" target="_blank">
+  <a href="https://sedaghat-frontdev.github.io/filmography/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
