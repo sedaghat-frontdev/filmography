@@ -11,7 +11,7 @@ A Filmography project using HTML and CSS3.
 <br/>
 <img width="1918" height="932" alt="Image" src="https://github.com/user-attachments/assets/9f087dc9-e213-474e-9a68-c8155d51b496" />
 <br/>
-<img width="1918" height="967" alt="Image" src="https://github.com/user-attachments/assets/6e6e0e30-ae09-4e0a-a99f-fdac2498caad" />
+<img width="1918" height="971" alt="Image" src="https://github.com/user-attachments/assets/957c00b0-7a20-4cfd-bd65-6b588d80eeee" />
 
 <br/>
 <br/>
