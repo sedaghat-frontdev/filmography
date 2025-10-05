@@ -15,8 +15,6 @@ A Filmography project using HTML and CSS3.
 <br/>
 <img width="1913" height="940" alt="Image" src="https://github.com/user-attachments/assets/9595164a-4b1c-4902-a86e-df35d28f6741" />
 <br/>
-<img width="1918" height="942" alt="Image" src="https://github.com/user-attachments/assets/92502c5d-fb32-453b-a232-8270df614702" />
-<br/>
 <br/>
 <p align="center">
   <a href="https://sedaghat-frontdev.github.io/filmography/" target="_blank">
