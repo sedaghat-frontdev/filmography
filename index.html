@@ -11,6 +11,19 @@
 </head>
 
 <body>
+
+  <script src="https://unpkg.com/@studio-freight/lenis"></script>
+
+   <script>
+    const lenis = new Lenis(1.2)
+
+    function raf(time) {
+      lenis.raf(time)
+      requestAnimationFrame(raf)
+    }
+
+    requestAnimationFrame(raf)
+  </script>
   <div class="copyright-container">
   <div class="layer layer1"></div>
   <div class="layer layer2"></div>
